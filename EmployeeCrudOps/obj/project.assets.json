@@ -1803,11 +1803,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\madPrad\\EmployeeCrudOps\\EmployeeCrudOps.csproj",
+      "projectUniqueName": "F:\\madPrad\\Repo\\EmployeeCrudOps\\EmployeeCrudOps.csproj",
       "projectName": "EmployeeCrudOps",
-      "projectPath": "F:\\madPrad\\EmployeeCrudOps\\EmployeeCrudOps.csproj",
+      "projectPath": "F:\\madPrad\\Repo\\EmployeeCrudOps\\EmployeeCrudOps.csproj",
       "packagesPath": "C:\\Users\\DHRUVA\\.nuget\\packages\\",
-      "outputPath": "F:\\madPrad\\EmployeeCrudOps\\obj\\",
+      "outputPath": "F:\\madPrad\\Repo\\EmployeeCrudOps\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DHRUVA\\AppData\\Roaming\\NuGet\\NuGet.Config"

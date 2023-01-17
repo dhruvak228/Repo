@@ -22,7 +22,7 @@ const InsertEmployee = (props) =>{
           <form method="POST" onSubmit={savedata}>
             <input type="text" name="empname" onChange={handleChange} placeholder="empname" />
             <input type="text" name="job" onChange={handleChange} placeholder="job" />
-            <input type="text" name="joiningdate" onchange={handleChange} placeholder="joiningdate" />
+            <input type="text" name="joiningdate" onChange={handleChange} placeholder="joiningdate" />
             <input type="Submit" />
           </form>
         </>

@@ -48,7 +48,7 @@ public class EmployeeDataAccess
         try
         {
             con.Open();
-            string query = "select * from employee where empid=";
+            string query = "select * from employee where empid="+id;
             MySqlCommand command = new MySqlCommand(query,con);
             MySqlDataReader reader = command.ExecuteReader();
 
